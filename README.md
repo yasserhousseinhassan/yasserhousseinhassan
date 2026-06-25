@@ -154,7 +154,9 @@ Conception et développement de **systèmes avancés** pour serveurs multiplayer
 
 ---
 
-## 🚀 Featured Projects
+## 🎮 Passion — FiveM Game Systems
+
+> Là où j'applique ma rigueur d'ingénieur au code temps réel : des systèmes de jeu propres, optimisés et scalables.
 
 <table>
 <tr>
@@ -277,11 +279,11 @@ J'aborde chaque feature avec une logique d'**ingénierie système** :
 
 ## 🔭 What I'm Working On
 
-- 🧱 **Frameworks internes** — librairies réutilisables pour accélérer le dev de nouveaux systèmes
-- 🤖 **Automation & tooling** — pipelines de build/déploiement pour resources FiveM
-- 📊 **Data & analytics** — exploitation Python/SQL des données serveur (économie, comportements)
-- ⚙️ **Optimisation continue** — profiling et refactoring des systèmes existants pour plus de perf
-- 🌐 **Systèmes avancés** — nouvelles mécaniques multiplayer toujours plus immersives
+- 📊 **Finance quantitative & data** — approfondir la modélisation de séries financières et l'optimisation de portefeuille
+- 🧮 **Modélisation & simulation** — explorer de nouveaux modèles numériques et stochastiques en Python
+- 🤝 **Pont maths ↔ code** — appliquer mes méthodes quantitatives à des problèmes concrets (data, optimisation)
+- 🎮 **FiveM (passion)** — frameworks réutilisables et nouvelles mécaniques multiplayer optimisées
+- 📚 **Veille continue** — IA / data science et outils quantitatifs modernes
 
 ---
 
