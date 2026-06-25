@@ -2,12 +2,13 @@
 
 # Yasser Hussein Hassan
 
-### Systems Developer · FiveM Engineering · @Hypercube
+### Applied Mathematics · Quantitative Finance · Data & Modeling
 
-**Je conçois des systèmes de jeu robustes, optimisés et scalables pour serveurs multiplayer.**
+**Ingénieur en mathématiques appliquées — modélisation, finance quantitative et optimisation. Développeur FiveM par passion.**
 
-[![Hypercube](https://img.shields.io/badge/Developer%20%40-Hypercube-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=4F46E5)](#-experience)
-[![Focus](https://img.shields.io/badge/Focus-FiveM%20Systems-FF4655?style=for-the-badge&labelColor=0A0A0A)](#-featured-projects)
+[![Background](https://img.shields.io/badge/Background-Maths%20%26%20Quant%20Finance-4F46E5?style=for-the-badge&labelColor=0A0A0A)](#-academic-background)
+[![Stack](https://img.shields.io/badge/Stack-Python%20%C2%B7%20MATLAB%20%C2%B7%20SQL-3776AB?style=for-the-badge&labelColor=0A0A0A)](#%EF%B8%8F-tech-stack)
+[![Passion](https://img.shields.io/badge/Passion-FiveM%20Systems-FF4655?style=for-the-badge&labelColor=0A0A0A)](#-passion--fivem-game-systems)
 [![Open to](https://img.shields.io/badge/Open%20to-Collaborations-22C55E?style=for-the-badge&labelColor=0A0A0A)](#-contact)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yasserhousseinhassan&color=4F46E5&style=flat-square&label=Profile+Views)](https://github.com/yasserhousseinhassan)
@@ -20,23 +21,23 @@
 
 ## 🧠 About Me
 
-Développeur chez **Hypercube**, je suis spécialisé dans l'ingénierie de systèmes pour serveurs de jeu **FiveM**. Mon terrain de jeu : transformer des mécaniques complexes en scripts **propres, performants et maintenables** — du gameplay côté client jusqu'à l'architecture serveur côté backend.
+Formé en **mathématiques appliquées** (Master Ingénierie Mathématique en Finance & Logistique), je travaille à l'intersection de la **modélisation, de la finance quantitative et de l'optimisation**. J'aime transformer des problèmes complexes en modèles rigoureux, simulés et exploitables sur données réelles.
 
-```lua
-local yasser = {
-    role        = "Systems Developer @ Hypercube",
-    expertise   = { "FiveM", "Lua", "JavaScript" },
-    mindset     = "Clean code · Optimisation · Scalable architecture",
-    focus       = "Game systems, automation & server performance",
-    also        = { "Python", "SQL", "Data / IA" }, -- toolkit secondaire
-    currently   = "Building advanced multiplayer systems",
-}
+À côté de ce socle académique, je développe par **passion** des systèmes de jeu avancés pour serveurs **FiveM** — un terrain de jeu idéal pour appliquer ma rigueur d'ingénieur au code temps réel et performant.
+
+```python
+class Yasser:
+    background  = "MSc Applied Mathematics — Quant Finance & Logistics"
+    expertise   = ["Modeling", "Quantitative Finance", "Optimization", "Data"]
+    toolkit     = ["Python", "MATLAB", "SQL", "EViews", "CPLEX"]
+    mindset     = "Rigueur mathématique · Pensée systèmes · Données réelles"
+    passion     = ["FiveM game systems", "Lua / JavaScript", "Server performance"]
 ```
 
-- 🎮 **Core identity** — scripting FiveM (gameplay systems, frameworks, optimisation)
-- ⚙️ **Approche ingénieur** — j'aborde chaque script comme un système : modulaire, testable, scalable
-- 🚀 **Obsession** — la performance serveur et l'expérience joueur fluide
-- 📊 **Bonus stack** — Data / IA / Python / SQL pour l'automation et l'analyse
+- 🎓 **Identité** — ingénieur en maths appliquées : modélisation, finance quantitative, optimisation
+- 📊 **Données & quant** — séries temporelles, GARCH, Markowitz, recherche opérationnelle
+- 🧮 **Numérique & simulation** — EDP, modèles hybrides, simulation Python/MATLAB
+- 🎮 **Passion** — scripting FiveM (Lua/JS) : la même rigueur, appliquée au game dev
 
 ---
 
