@@ -330,7 +330,7 @@ J'aborde chaque feature avec une logique d'**ingénierie système** :
 
 [![GitHub](https://img.shields.io/badge/GitHub-yasserhousseinhassan-181717?style=for-the-badge)](https://github.com/yasserhousseinhassan)
 [![Email](https://img.shields.io/badge/Email-Me%20contacter-EA4335?style=for-the-badge)](mailto:abdi.omar@hypercube.dj)
-[![Discord](https://img.shields.io/badge/Discord-Disponible%20sur%20demande-5865F2?style=for-the-badge)](#)
+[![Discord](https://img.shields.io/badge/Discord-Me%20contacter-5865F2?style=for-the-badge)](https://discord.com/users/1269146158928760897)
 
 **Ouvert aux collaborations, partenariats et projets techniques ambitieux.**
 
