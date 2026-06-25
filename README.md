@@ -132,7 +132,7 @@ Résolution numérique de l'équation de la chaleur (EDP) par différences finie
 <tr>
 <td width="50%" valign="top">
 
-### Optimisation de Tournées (VRP)
+### [Optimisation de Tournées] (VRP)
 Résolution exacte avec **CPLEX** (programmation linéaire, contraintes MTZ) vs heuristique du plus proche voisin. Comparaison optimal / réalisable.
 `CPLEX` · `Recherche Opérationnelle` · `Python`
 
