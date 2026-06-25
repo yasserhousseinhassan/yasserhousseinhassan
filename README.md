@@ -29,7 +29,8 @@ Formé en **mathématiques appliquées** (Master Ingénierie Mathématique en Fi
 class Yasser:
     background  = "MSc Applied Mathematics — Quant Finance & Logistics"
     expertise   = ["Modeling", "Quantitative Finance", "Optimization", "Data"]
-    toolkit     = ["Python", "MATLAB", "SQL", "EViews", "CPLEX"]
+    quant_stack = ["Python", "MATLAB", "SQL", "EViews", "CPLEX"]
+    dev_stack   = ["React", "Flutter", "PHP", "JavaScript"]
     mindset     = "Rigueur mathematique - Pensee systemes - Donnees reelles"
     passion     = ["FiveM game systems", "Lua / JavaScript", "Server performance"]
 ```
@@ -58,13 +59,22 @@ class Yasser:
 ![Econometrics](https://img.shields.io/badge/Econometrics-GARCH%20%2F%20ARMA-7C3AED?style=for-the-badge)
 ![Optimization](https://img.shields.io/badge/Optimization-Markowitz%20%2F%20VRP-059669?style=for-the-badge)
 
+**Web & Mobile Development**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge)
+
 **Passion — Game Systems Engineering**
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge)
 ![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge)
 ![ESX](https://img.shields.io/badge/ESX-1E1E1E?style=for-the-badge)
-![NUI](https://img.shields.io/badge/NUI-React%20%2F%20HTML-61DAFB?style=for-the-badge)
+![NUI](https://img.shields.io/badge/NUI-HTML%20%2F%20JS-61DAFB?style=for-the-badge)
 
 **Tooling**
 
@@ -90,16 +100,32 @@ class Yasser:
 <tr>
 <td width="50%" valign="top">
 
-### Séries Temporelles — CAC40 & Renault
+### [Séries Temporelles — CAC40 & Renault](https://github.com/yasserhousseinhassan/econometrie)
 Modélisation économétrique des cours boursiers : tests de stationnarité (ADF), modèles **ARMA / GARCH / GARCH-M**, APT et test d'efficience de marché.
 `EViews` · `Économétrie` · `Time Series`
 
 </td>
 <td width="50%" valign="top">
 
-### Optimisation de Portefeuille (Markowitz)
+### [Optimisation de Portefeuille (Markowitz)](https://github.com/yasserhousseinhassan/optimisation-portefeuille)
 Construction de la frontière efficiente, maximisation du **ratio de Sharpe** et analyse de diversification (indice HHI) sur données réelles.
-`Python` · `Quant Finance` · `Optimisation`
+`Python` · `Jupyter` · `Quant Finance`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [Modèles Hybrides (Mémoire M1)](https://github.com/yasserhousseinhassan/etude-simulation-modeles-hybrides)
+Couplage **EDO + modèles à base d'agents** pour la dynamique des populations. Étude théorique (existence/unicité) et simulation d'un modèle SIR épidémiologique.
+`Python` · `LaTeX` · `Modélisation`
+
+</td>
+<td width="50%" valign="top">
+
+### [Méthode de Crank-Nicolson](https://github.com/yasserhousseinhassan/methode-crank-nicolson)
+Résolution numérique de l'équation de la chaleur (EDP) par différences finies — schémas explicite/implicite/C-N, étude de consistance, stabilité et convergence.
+`MATLAB` · `Numérique` · `EDP`
 
 </td>
 </tr>
@@ -113,23 +139,7 @@ Résolution exacte avec **CPLEX** (programmation linéaire, contraintes MTZ) vs 
 </td>
 <td width="50%" valign="top">
 
-### Modèles Hybrides (Mémoire M1)
-Couplage **EDO + modèles à base d'agents** pour la dynamique des populations. Étude théorique (existence/unicité) et simulation d'un modèle SIR épidémiologique.
-`Python` · `matplotlib` · `Modélisation`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Méthode de Crank-Nicolson
-Résolution numérique de l'équation de la chaleur (EDP) par différences finies — schémas explicite/implicite/C-N, étude de consistance, stabilité et convergence.
-`MATLAB` · `Numérique` · `EDP`
-
-</td>
-<td width="50%" valign="top">
-
-### Gestion des Risques — Renault Retail Group
+### [Gestion des Risques — Renault Retail Group](https://github.com/yasserhousseinhassan/gestion-de-risque)
 Analyse financière complète (bilan, compte de résultat), cartographie des risques et recommandations stratégiques. *Master 2 IMFL.*
 `Finance` · `Risk Mapping` · `Analyse`
 
@@ -167,10 +177,12 @@ Analyse financière complète (bilan, compte de résultat), cartographie des ris
 
 Conception et développement de **systèmes data multiplateformes** (web, mobile, desktop) dédiés à la gestion, l'analyse et la valorisation des données :
 
-- **Systèmes multiplateformes** — collaboration en équipe pour développer des applications web, mobiles et desktop de gestion et d'analyse de données
+- **Systèmes multiplateformes** — applications web, mobiles et desktop de gestion et d'analyse de données *(React, Flutter, PHP)*
 - **Aide à la gouvernance** — conception et implémentation d'un système centralisant l'information pour faciliter la prise de décision stratégique
 - **Planification & simulation** — développement d'outils d'optimisation des processus opérationnels
-- **Approche quantitative** — application de mes méthodes de modélisation et d'optimisation à des problématiques métier réelles
+- **Approche quantitative** — application de mes méthodes de modélisation et d'optimisation (Python/SQL) à des problématiques métier réelles
+
+**Stack** : `React` · `Flutter` · `PHP` · `Python` · `SQL`
 
 ---
 
@@ -182,7 +194,7 @@ Conception et développement de **systèmes data multiplateformes** (web, mobile
 <tr>
 <td width="50%" valign="top">
 
-### ys_cardealer
+### ys_cardealer `privé`
 **Concession de véhicules complète**
 > Système de vente/achat de véhicules avec catalogue dynamique, essais, financement et persistance DB.
 
@@ -192,7 +204,7 @@ Conception et développement de **systèmes data multiplateformes** (web, mobile
 </td>
 <td width="50%" valign="top">
 
-### ys_hud
+### ys_hud `privé`
 **HUD moderne & optimisé**
 > Interface joueur custom (santé, faim, soif, statuts) ultra-légère, animée et entièrement configurable.
 
@@ -204,7 +216,7 @@ Conception et développement de **systèmes data multiplateformes** (web, mobile
 <tr>
 <td width="50%" valign="top">
 
-### ys_controlnpc
+### [ys_controlnpc](https://github.com/yasserhousseinhassan/ys-controlnpc)
 **Contrôle avancé des PNJs**
 > Spawn, animation, pathfinding et interactions scriptées des NPC pour scènes immersives.
 
@@ -214,7 +226,7 @@ Conception et développement de **systèmes data multiplateformes** (web, mobile
 </td>
 <td width="50%" valign="top">
 
-### ys_blackmarket
+### [ys_blackmarket](https://github.com/yasserhousseinhassan/ys_blackmarket)
 **Marché noir dynamique**
 > Système d'échange illégal avec stock rotatif, localisation aléatoire et économie équilibrée.
 
@@ -226,7 +238,7 @@ Conception et développement de **systèmes data multiplateformes** (web, mobile
 <tr>
 <td width="50%" valign="top">
 
-### esx_identity_redesign
+### [esx_identity_redesign](https://github.com/yasserhousseinhassan/esx-identity-redesign)
 **Refonte du système d'identité**
 > Création de personnage & gestion de profil avec UI moderne sur base ESX.
 
@@ -236,7 +248,7 @@ Conception et développement de **systèmes data multiplateformes** (web, mobile
 </td>
 <td width="50%" valign="top">
 
-### clone_system
+### [clone_system](https://github.com/yasserhousseinhassan/clone_system)
 **Système de clonage avancé**
 > Mécaniques de clone, permissions granulaires et logging complet pour FiveM.
 
