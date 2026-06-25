@@ -80,9 +80,9 @@ class Yasser:
 > Mathématiques appliquées, finance quantitative et optimisation — le cœur de mon identité d'ingénieur.
 
 **🏛️ Formation**
-- 🎯 **Master — Ingénierie Mathématique en Finance & Logistique (IMFL)** · Université Le Havre Normandie
-- 📐 **Master 1 — Mathématiques & Applications** · Université Le Havre Normandie
-- 🧮 **Licence — Mathématiques Fondamentales**
+- 🎯 **Master 2 — Ingénierie Mathématique : Finance & Logistique (IMFL)** · Université Le Havre Normandie · 🇫🇷 2024 – 2025
+- 📐 **Master 1 — Mathématiques & Applications** · Université Le Havre Normandie · 🇫🇷 2023 – 2024
+- 🧮 **Licence de Mathématiques** · Université de Djibouti · 🇩🇯 2019 – 2022
 
 **📚 Travaux & projets de recherche**
 
@@ -139,18 +139,38 @@ Analyse financière complète (bilan, compte de résultat), cartographie des ris
 
 ---
 
+## 📜 Licences & Certifications
+
+> Une montée en compétences continue, centrée **Data, IA, Cloud & Finance quantitative**.
+
+**🤖 IA / Machine Learning & Data**
+- 🧠 **Build a Computer Vision App with Azure Cognitive Services** — *Microsoft* (Coursera, 2026) · score 82,29 %
+- 🔥 **Deep Learning with PyTorch — Generative Adversarial Network (GAN)** — *Coursera* (2025)
+- 📊 **Google Data Studio — Création de Tableaux de Bord Interactifs** — *Coursera* (2025)
+- 📈 **Choisir la Meilleure Méthode pour Illustrer les Données** — *Coursera* (2025)
+
+**☁️ Cloud**
+- 🌐 **Créer un nuage privé virtuel (VPC) avec AWS** — *Coursera* (2025)
+
+**💹 Finance quantitative**
+- 💰 **Discounted Cash Flow (DCF) Modeling** — *Coursera* (2025)
+
+**🌍 Développement Web**
+- 🖥️ **Web Development Mastery: HTML, CSS & JavaScript Fundamentals** — *Board Infinity* (Coursera, 2026) · HTML5, CSS (Flexbox/Grid/Bootstrap), JS, React, UX/UI
+
+---
+
 ## 💼 Experience
 
-### `Hypercube` — Systems Developer
-> **Game systems & server engineering · FiveM**
+### `Hypercube` — Développeur Data Systèmes
+> 📍 **Djibouti** · 🗓️ **Mars 2026 — Aujourd'hui**
 
-Conception et développement de **systèmes avancés** pour serveurs multiplayer haute performance. Mon rôle couvre l'ensemble de la chaîne technique :
+Conception et développement de **systèmes data multiplateformes** (web, mobile, desktop) dédiés à la gestion, l'analyse et la valorisation des données :
 
-- 🧩 **Architecture de systèmes** — scripts modulaires pensés pour la réutilisation et la montée en charge
-- ⚡ **Optimisation serveur** — réduction du temps CPU/tick, gestion mémoire, profiling de resources
-- 🔄 **Automation** — outils internes et workflows pour accélérer le développement et le déploiement
-- 🎯 **Gameplay engineering** — mécaniques de jeu complexes (économie, NPC, inventaire, UI/NUI)
-- 🛡️ **Fiabilité** — code défensif, logging structuré, gestion des edge cases en environnement live
+- 🤝 **Systèmes multiplateformes** — collaboration en équipe pour développer des applications web, mobiles et desktop de gestion et d'analyse de données
+- 🏛️ **Aide à la gouvernance** — conception et implémentation d'un système centralisant l'information pour faciliter la prise de décision stratégique
+- 📈 **Planification & simulation** — développement d'outils d'optimisation des processus opérationnels
+- 🧮 **Approche quantitative** — application de mes méthodes de modélisation et d'optimisation à des problématiques métier réelles
 
 ---
 
