@@ -2,12 +2,12 @@
 
 # Yasser Hussein Hassan
 
-### Systems Developer · FiveM / RedM Engineering · @Hypercube
+### Systems Developer · FiveM Engineering · @Hypercube
 
 **Je conçois des systèmes de jeu robustes, optimisés et scalables pour serveurs multiplayer.**
 
 [![Hypercube](https://img.shields.io/badge/Developer%20%40-Hypercube-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=4F46E5)](#-experience)
-[![Focus](https://img.shields.io/badge/Focus-FiveM%20%2F%20RedM%20Systems-FF4655?style=for-the-badge&labelColor=0A0A0A)](#-featured-projects)
+[![Focus](https://img.shields.io/badge/Focus-FiveM%20Systems-FF4655?style=for-the-badge&labelColor=0A0A0A)](#-featured-projects)
 [![Open to](https://img.shields.io/badge/Open%20to-Collaborations-22C55E?style=for-the-badge&labelColor=0A0A0A)](#-contact)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yasserhousseinhassan&color=4F46E5&style=flat-square&label=Profile+Views)](https://github.com/yasserhousseinhassan)
@@ -20,12 +20,12 @@
 
 ## 🧠 About Me
 
-Développeur chez **Hypercube**, je suis spécialisé dans l'ingénierie de systèmes pour serveurs de jeu **FiveM / RedM**. Mon terrain de jeu : transformer des mécaniques complexes en scripts **propres, performants et maintenables** — du gameplay côté client jusqu'à l'architecture serveur côté backend.
+Développeur chez **Hypercube**, je suis spécialisé dans l'ingénierie de systèmes pour serveurs de jeu **FiveM**. Mon terrain de jeu : transformer des mécaniques complexes en scripts **propres, performants et maintenables** — du gameplay côté client jusqu'à l'architecture serveur côté backend.
 
 ```lua
 local yasser = {
     role        = "Systems Developer @ Hypercube",
-    expertise   = { "FiveM", "RedM", "Lua", "JavaScript" },
+    expertise   = { "FiveM", "Lua", "JavaScript" },
     mindset     = "Clean code · Optimisation · Scalable architecture",
     focus       = "Game systems, automation & server performance",
     also        = { "Python", "SQL", "Data / IA" }, -- toolkit secondaire
@@ -33,7 +33,7 @@ local yasser = {
 }
 ```
 
-- 🎮 **Core identity** — scripting FiveM / RedM (gameplay systems, frameworks, optimisation)
+- 🎮 **Core identity** — scripting FiveM (gameplay systems, frameworks, optimisation)
 - ⚙️ **Approche ingénieur** — j'aborde chaque script comme un système : modulaire, testable, scalable
 - 🚀 **Obsession** — la performance serveur et l'expérience joueur fluide
 - 📊 **Bonus stack** — Data / IA / Python / SQL pour l'automation et l'analyse
@@ -48,7 +48,6 @@ local yasser = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=cityscape&logoColor=white)
-![RedM](https://img.shields.io/badge/RedM-8B0000?style=for-the-badge&logo=rockstargames&logoColor=white)
 
 **Frameworks & Ecosystem**
 
@@ -71,7 +70,7 @@ local yasser = {
 ## 💼 Experience
 
 ### `Hypercube` — Systems Developer
-> **Game systems & server engineering · FiveM / RedM**
+> **Game systems & server engineering · FiveM**
 
 Conception et développement de **systèmes avancés** pour serveurs multiplayer haute performance. Mon rôle couvre l'ensemble de la chaîne technique :
 
@@ -145,7 +144,7 @@ Conception et développement de **systèmes avancés** pour serveurs multiplayer
 
 ### 🧬 clone_system
 **Système de clonage avancé**
-> Mécaniques de clone, permissions granulaires et logging complet pour FiveM/RedM.
+> Mécaniques de clone, permissions granulaires et logging complet pour FiveM.
 
 `Lua` · `Permissions` · `Logging`
 ✅ **Actif**
@@ -201,6 +200,63 @@ J'aborde chaque feature avec une logique d'**ingénierie système** :
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yasserhousseinhassan&theme=tokyonight&hide_border=true)
 
 </div>
+
+---
+
+## 🎓 Academic Projects
+
+> Au-delà du game dev, un socle solide en **mathématiques appliquées, finance quantitative & optimisation** — la rigueur d'ingénierie qui structure ma façon de penser les systèmes.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Séries Temporelles — CAC40 & Renault
+Modélisation économétrique des cours boursiers : tests de stationnarité (ADF), modèles **ARMA / GARCH / GARCH-M**, APT et test d'efficience de marché.
+`EViews` · `Économétrie` · `Time Series`
+
+</td>
+<td width="50%" valign="top">
+
+### 🦠 Modèles Hybrides (Mémoire M1)
+Couplage **EDO + modèles à base d'agents** pour la dynamique des populations. Étude théorique (existence/unicité) et simulation d'un modèle SIR épidémiologique.
+`Python` · `matplotlib` · `Modélisation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Gestion des Risques — Renault Retail Group
+Analyse financière complète (bilan, compte de résultat), cartographie des risques et recommandations stratégiques. *Master 2 IMFL.*
+`Finance` · `Risk Mapping` · `Analyse`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌡️ Méthode de Crank-Nicolson
+Résolution numérique de l'équation de la chaleur (EDP) par différences finies — schémas explicite/implicite/C-N, étude de consistance, stabilité et convergence.
+`MATLAB` · `Numérique` · `EDP`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💼 Optimisation de Portefeuille (Markowitz)
+Construction de la frontière efficiente, maximisation du **ratio de Sharpe** et analyse de diversification (indice HHI) sur données réelles.
+`Python` · `Quant Finance` · `Optimisation`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚚 Optimisation de Tournées (VRP)
+Résolution exacte avec **CPLEX** (programmation linéaire, contraintes MTZ) vs heuristique du plus proche voisin. Comparaison optimal / réalisable.
+`CPLEX` · `Recherche Opérationnelle` · `Python`
+
+</td>
+</tr>
+</table>
 
 ---
 
