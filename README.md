@@ -271,13 +271,13 @@ J'aborde chaque feature avec une logique d'**ingénierie système** :
 
 ---
 
-## 🧭 Development Philosophy
+## 🧭 Work Philosophy
 
 ```text
-1.  Clean code first      →  lisible aujourd'hui, maintenable demain
-2.  Optimize relentlessly →  chaque milliseconde de tick compte
+1.  Rigueur d'abord       →  un modèle juste avant un modèle rapide
+2.  Données réelles       →  valider sur le terrain, pas sur la théorie seule
 3.  Think in systems      →  modulaire, découplé, réutilisable
-4.  Server-authoritative  →  ne jamais faire confiance au client
+4.  Optimize relentlessly →  performance et efficacité à chaque étape
 5.  Ship & iterate        →  livrer, mesurer, améliorer
 ```
 
@@ -307,6 +307,14 @@ J'aborde chaque feature avec une logique d'**ingénierie système** :
 
 ---
 
+## 🌍 Langues
+
+![Français](https://img.shields.io/badge/Français-Courant-4F46E5?style=for-the-badge&labelColor=0A0A0A)
+![Anglais](https://img.shields.io/badge/Anglais-Professionnel-3776AB?style=for-the-badge&labelColor=0A0A0A)
+![Arabe](https://img.shields.io/badge/Arabe-Courant-059669?style=for-the-badge&labelColor=0A0A0A)
+
+---
+
 ## 📬 Contact
 
 <div align="center">
@@ -323,8 +331,8 @@ J'aborde chaque feature avec une logique d'**ingénierie système** :
 
 <div align="center">
 
-⭐ *Si mes systèmes vous inspirent, laissez une star — ça fait toujours plaisir à un dev.* ⭐
+⭐ *Si mon travail vous inspire, laissez une star — ça fait toujours plaisir.* ⭐
 
-![Footer](https://img.shields.io/badge/Built%20with-Lua%20%26%20☕-4F46E5?style=for-the-badge&labelColor=0A0A0A)
+![Footer](https://img.shields.io/badge/Built%20with-Maths%2C%20Python%20%26%20☕-4F46E5?style=for-the-badge&labelColor=0A0A0A)
 
 </div>
