@@ -43,28 +43,35 @@ class Yasser:
 
 ## 🛠️ Tech Stack
 
-**Core — Game Systems Engineering**
+**Core — Data, Quant & Scientific Computing**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Quantitative & Optimization**
+
+![EViews](https://img.shields.io/badge/EViews-1E3A8A?style=for-the-badge&logoColor=white)
+![CPLEX](https://img.shields.io/badge/IBM%20CPLEX-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![Econometrics](https://img.shields.io/badge/Econometrics-GARCH%20%2F%20ARMA-7C3AED?style=for-the-badge&logoColor=white)
+![Optimization](https://img.shields.io/badge/Optimization-Markowitz%20%2F%20VRP-059669?style=for-the-badge&logoColor=white)
+
+**Passion — Game Systems Engineering**
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![FiveM](https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=cityscape&logoColor=white)
-
-**Frameworks & Ecosystem**
-
 ![ESX](https://img.shields.io/badge/ESX-1E1E1E?style=for-the-badge&logoColor=white)
-![QBCore](https://img.shields.io/badge/QBCore-3B82F6?style=for-the-badge&logoColor=white)
-![ox_lib](https://img.shields.io/badge/ox__lib-0F172A?style=for-the-badge&logoColor=white)
 ![NUI](https://img.shields.io/badge/NUI-React%20%2F%20HTML-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**Data · Backend · Tooling**
+**Tooling**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
 
 ---
 
