@@ -75,6 +75,70 @@ class Yasser:
 
 ---
 
+## 🎓 Academic Background
+
+> Mathématiques appliquées, finance quantitative et optimisation — le cœur de mon identité d'ingénieur.
+
+**🏛️ Formation**
+- 🎯 **Master — Ingénierie Mathématique en Finance & Logistique (IMFL)** · Université Le Havre Normandie
+- 📐 **Master 1 — Mathématiques & Applications** · Université Le Havre Normandie
+- 🧮 **Licence — Mathématiques Fondamentales**
+
+**📚 Travaux & projets de recherche**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Séries Temporelles — CAC40 & Renault
+Modélisation économétrique des cours boursiers : tests de stationnarité (ADF), modèles **ARMA / GARCH / GARCH-M**, APT et test d'efficience de marché.
+`EViews` · `Économétrie` · `Time Series`
+
+</td>
+<td width="50%" valign="top">
+
+### 💼 Optimisation de Portefeuille (Markowitz)
+Construction de la frontière efficiente, maximisation du **ratio de Sharpe** et analyse de diversification (indice HHI) sur données réelles.
+`Python` · `Quant Finance` · `Optimisation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚚 Optimisation de Tournées (VRP)
+Résolution exacte avec **CPLEX** (programmation linéaire, contraintes MTZ) vs heuristique du plus proche voisin. Comparaison optimal / réalisable.
+`CPLEX` · `Recherche Opérationnelle` · `Python`
+
+</td>
+<td width="50%" valign="top">
+
+### 🦠 Modèles Hybrides (Mémoire M1)
+Couplage **EDO + modèles à base d'agents** pour la dynamique des populations. Étude théorique (existence/unicité) et simulation d'un modèle SIR épidémiologique.
+`Python` · `matplotlib` · `Modélisation`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌡️ Méthode de Crank-Nicolson
+Résolution numérique de l'équation de la chaleur (EDP) par différences finies — schémas explicite/implicite/C-N, étude de consistance, stabilité et convergence.
+`MATLAB` · `Numérique` · `EDP`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Gestion des Risques — Renault Retail Group
+Analyse financière complète (bilan, compte de résultat), cartographie des risques et recommandations stratégiques. *Master 2 IMFL.*
+`Finance` · `Risk Mapping` · `Analyse`
+
+</td>
+</tr>
+</table>
+
+---
+
 ## 💼 Experience
 
 ### `Hypercube` — Systems Developer
@@ -208,63 +272,6 @@ J'aborde chaque feature avec une logique d'**ingénierie système** :
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yasserhousseinhassan&theme=tokyonight&hide_border=true)
 
 </div>
-
----
-
-## 🎓 Academic Projects
-
-> Au-delà du game dev, un socle solide en **mathématiques appliquées, finance quantitative & optimisation** — la rigueur d'ingénierie qui structure ma façon de penser les systèmes.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📈 Séries Temporelles — CAC40 & Renault
-Modélisation économétrique des cours boursiers : tests de stationnarité (ADF), modèles **ARMA / GARCH / GARCH-M**, APT et test d'efficience de marché.
-`EViews` · `Économétrie` · `Time Series`
-
-</td>
-<td width="50%" valign="top">
-
-### 🦠 Modèles Hybrides (Mémoire M1)
-Couplage **EDO + modèles à base d'agents** pour la dynamique des populations. Étude théorique (existence/unicité) et simulation d'un modèle SIR épidémiologique.
-`Python` · `matplotlib` · `Modélisation`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Gestion des Risques — Renault Retail Group
-Analyse financière complète (bilan, compte de résultat), cartographie des risques et recommandations stratégiques. *Master 2 IMFL.*
-`Finance` · `Risk Mapping` · `Analyse`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌡️ Méthode de Crank-Nicolson
-Résolution numérique de l'équation de la chaleur (EDP) par différences finies — schémas explicite/implicite/C-N, étude de consistance, stabilité et convergence.
-`MATLAB` · `Numérique` · `EDP`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💼 Optimisation de Portefeuille (Markowitz)
-Construction de la frontière efficiente, maximisation du **ratio de Sharpe** et analyse de diversification (indice HHI) sur données réelles.
-`Python` · `Quant Finance` · `Optimisation`
-
-</td>
-<td width="50%" valign="top">
-
-### 🚚 Optimisation de Tournées (VRP)
-Résolution exacte avec **CPLEX** (programmation linéaire, contraintes MTZ) vs heuristique du plus proche voisin. Comparaison optimal / réalisable.
-`CPLEX` · `Recherche Opérationnelle` · `Python`
-
-</td>
-</tr>
-</table>
 
 ---
 
