@@ -2,14 +2,14 @@
 
 # Yasser Hussein Hassan
 
-### Applied Mathematics · Quantitative Finance · Data & Modeling
+### Data Systems Developer · Applied Mathematics · Full-Stack (Web & Mobile)
 
-**Ingénieur en mathématiques appliquées — modélisation, finance quantitative et optimisation. Développeur FiveM par passion.**
+**Ingénieur en mathématiques appliquées & développeur Data chez Hypercube — modélisation, finance quantitative, optimisation et applications web/mobile/desktop. Développeur FiveM par passion.**
 
+[![Role](https://img.shields.io/badge/Data%20Systems%20Developer-Hypercube-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=4F46E5)](#experience)
 [![Background](https://img.shields.io/badge/Background-Maths%20%26%20Quant%20Finance-4F46E5?style=for-the-badge&labelColor=0A0A0A)](#academic-background)
-[![Stack](https://img.shields.io/badge/Stack-Python%20%C2%B7%20MATLAB%20%C2%B7%20SQL-3776AB?style=for-the-badge&labelColor=0A0A0A)](#tech-stack)
+[![Stack](https://img.shields.io/badge/Stack-Python%20%C2%B7%20React%20%C2%B7%20Flutter%20%C2%B7%20SQL-3776AB?style=for-the-badge&labelColor=0A0A0A)](#tech-stack)
 [![Passion](https://img.shields.io/badge/Passion-FiveM%20Systems-FF4655?style=for-the-badge&labelColor=0A0A0A)](#passion--fivem-game-systems)
-[![Open to](https://img.shields.io/badge/Open%20to-Collaborations-22C55E?style=for-the-badge&labelColor=0A0A0A)](#contact)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=yasserhousseinhassan&color=4F46E5&style=flat-square&label=Profile+Views)](https://github.com/yasserhousseinhassan)
 [![GitHub followers](https://img.shields.io/github/followers/yasserhousseinhassan?style=flat-square&color=4F46E5&labelColor=0A0A0A)](https://github.com/yasserhousseinhassan)
