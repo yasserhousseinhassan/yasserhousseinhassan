@@ -315,8 +315,8 @@ J'aborde chaque fonctionnalité avec une logique d'**ingénierie système** :
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yasserhousseinhassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=4F46E5&icon_color=4F46E5" alt="GitHub Stats" />
-<img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yasserhousseinhassan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=4F46E5" alt="Top Languages" />
+<img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yasserhousseinhassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=4F46E5&icon_color=4F46E5&cache_seconds=1800" alt="GitHub Stats" />
+<img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yasserhousseinhassan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=4F46E5&cache_seconds=1800" alt="Top Languages" />
 
 <br/>
 
