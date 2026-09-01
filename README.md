@@ -315,8 +315,8 @@ J'aborde chaque fonctionnalité avec une logique d'**ingénierie système** :
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yasserhousseinhassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=4F46E5&icon_color=4F46E5" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasserhousseinhassan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=4F46E5" alt="Top Languages" />
+<img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yasserhousseinhassan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_color=4F46E5&icon_color=4F46E5" alt="GitHub Stats" />
+<img height="175" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yasserhousseinhassan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&title_color=4F46E5" alt="Top Languages" />
 
 <br/>
 
@@ -324,11 +324,11 @@ J'aborde chaque fonctionnalité avec une logique d'**ingénierie système** :
 
 <br/>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=yasserhousseinhassan&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=4F46E5&line=4F46E5&point=FF4655&area=true" alt="Contribution Activity Graph" />
+<img width="98%" src="https://activity-graph.vercel.app/graph?username=yasserhousseinhassan&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=4F46E5&line=4F46E5&point=FF4655&area=true" alt="Contribution Activity Graph" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=yasserhousseinhassan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+<img src="https://github-trophies.vercel.app/?username=yasserhousseinhassan&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
 
 </div>
 
