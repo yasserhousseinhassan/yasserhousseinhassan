@@ -4,7 +4,7 @@
 
 ### Data Systems Developer · Applied Mathematics · Full-Stack (Web & Mobile)
 
-**Ingénieur en mathématiques appliquées & développeur Data chez Hypercube — modélisation, finance quantitative, optimisation et applications web/mobile/desktop. Développeur FiveM par passion.**
+**Ingénieur en mathématiques appliquées & développeur chez Hypercube — modélisation, finance quantitative, optimisation et applications web/mobile/desktop. Développeur FiveM par passion.**
 
 <br/>
 
