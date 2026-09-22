@@ -190,6 +190,18 @@ Conception et développement de **systèmes data multiplateformes** (web, mobile
 
 ---
 
+## Projets Systèmes & Data — Impact Opérationnel
+
+> Applications concrètes de la modélisation et de l'aide à la décision sur des problématiques métier réelles.
+
+- **Trafic & mobilité (Djibouti)** — Analyse et suivi des flux de transport urbain/routier. `Python` · `Data Processing` · *dépôt privé*
+- **Vérification de véhicules** — Application de contrôle et d'authentification de véhicules, avec widgets métier dédiés. `Full-stack` · *dépôt privé*
+- **Gouvernance & KPI (Hypercube / Nova Laps)** — Modules de suivi budgétaire, calcul d'indicateurs et dashboards décisionnels. `React` · `SQL` · *dépôts privés*
+
+*Projets développés dans un cadre professionnel (Hypercube et partenaires) — restent privés ; épinglés sur mon profil pour attester de leur existence sans exposer de code client.*
+
+---
+
 ## Passion — FiveM Game Systems
 
 > Là où j'applique ma rigueur d'ingénieur au code temps réel : des systèmes de jeu propres, optimisés et scalables.
@@ -207,73 +219,13 @@ Conception et développement de **systèmes data multiplateformes** (web, mobile
 
 </td>
 </tr>
-<tr>
-<td width="50%" valign="top">
-
-### ys_cardealer `privé`
-**Concession de véhicules complète**
-> Système de vente/achat de véhicules avec catalogue dynamique, essais, financement et persistance DB.
-
-`Lua` · `NUI` · `MySQL`  
-**Production-ready**
-
-</td>
-<td width="50%" valign="top">
-
-### ys_hud `privé`
-**HUD moderne & optimisé**
-> Interface joueur custom (santé, faim, soif, statuts) ultra-légère, animée et entièrement configurable.
-
-`Lua` · `React/NUI` · `CSS`  
-**Production-ready**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [ys_controlnpc](https://github.com/yasserhousseinhassan/ys-controlnpc)
-**Contrôle avancé des PNJs**
-> Spawn, animation, pathfinding et interactions scriptées des NPC pour scènes immersives.
-
-`Lua` · `Pathfinding` · `Sync`  
-**Actif & maintenu**
-
-</td>
-<td width="50%" valign="top">
-
-### [ys_blackmarket](https://github.com/yasserhousseinhassan/ys_blackmarket)
-**Marché noir dynamique**
-> Système d'échange illégal avec stock rotatif, localisation aléatoire et économie équilibrée.
-
-`Lua` · `NUI` · `Economy`  
-**Actif & maintenu**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### [esx_identity_redesign](https://github.com/yasserhousseinhassan/esx-identity-redesign)
-**Refonte du système d'identité**
-> Création de personnage & gestion de profil avec UI moderne sur base ESX.
-
-`Lua` · `NUI` · `ESX`  
-**Actif**
-
-</td>
-<td width="50%" valign="top">
-
-### [clone_system](https://github.com/yasserhousseinhassan/clone_system)
-**Système de clonage avancé**
-> Mécaniques de clone, permissions granulaires et logging complet pour FiveM.
-
-`Lua` · `Permissions` · `Logging`  
-**Actif**
-
-</td>
-</tr>
 </table>
+
+<div align="center">
+
+*+ 6 autres ressources actives et maintenues (marché noir, contrôle de PNJ, refonte d'identité, clonage, HUD, concession de véhicules) — détails sur demande.*
+
+</div>
 
 <div align="center">
 
